@@ -10,7 +10,8 @@
 + hunter`app.name=="天擎终端安全管理系统"`
 + 特征
 
-![1699415110944-92dd0793-44ec-4b3a-8b0c-cddf0465a695.png](./img/qLEg5VoI2Ok1Dnar/1699415110944-92dd0793-44ec-4b3a-8b0c-cddf0465a695-979071.png)
+![![image](https://github.com/user-attachments/assets/e7334948-a465-4225-a047-a119053610fe)
+]
 
 # 四、漏洞复现
 sqlmap
