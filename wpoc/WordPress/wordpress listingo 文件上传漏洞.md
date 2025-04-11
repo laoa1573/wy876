@@ -24,4 +24,4 @@ Content-Disposition: form-data; name="submit"
 Start Uploader
 ------WebKitFormBoundary8rVjnfcgxgKoytcg--
 ```
-![image](https://github.com/wy876/POC/assets/139549762/8b115456-bcbe-4d0f-b51d-add3dcf0db78)
+![image](../../images/8b115456-bcbe-4d0f-b51d-add3dcf0db78.png)

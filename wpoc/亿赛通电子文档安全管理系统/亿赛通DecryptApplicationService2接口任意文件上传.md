@@ -19,6 +19,6 @@ Content-Length: 11
 pentest
 ```
 
-![351d9a1a384e83606b16d3e456e3e212](https://github.com/wy876/POC/assets/139549762/cd8b5019-1f4d-45e1-b89c-68ec7ad6ec74)
+![351d9a1a384e83606b16d3e456e3e212](../../images/cd8b5019-1f4d-45e1-b89c-68ec7ad6ec74.png)
 
 文件地址：`/CDGServer3/pentest.jsp`

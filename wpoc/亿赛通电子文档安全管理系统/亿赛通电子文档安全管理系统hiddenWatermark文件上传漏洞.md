@@ -55,7 +55,7 @@ Content-Type: application/zip
 ------WebKitFormBoundary3lm0J8uEuFHxy191--
 ```
 
-![3c04d6758ef8a4ed73dc917e054bfb8f](https://github.com/wy876/POC/assets/139549762/6f1b065b-3681-450c-808d-1697f494100e)
+![3c04d6758ef8a4ed73dc917e054bfb8f](../../images/6f1b065b-3681-450c-808d-1697f494100e.png)
 
 ## nuclei
 ```

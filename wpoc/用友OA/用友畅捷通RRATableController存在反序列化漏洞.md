@@ -32,4 +32,4 @@ Content-Type: application/json
 }
 ```
 
-![6bb2469b6a58fb49ed786d38aa95cab3](https://github.com/wy876/POC/assets/139549762/559f3c66-5885-4de8-97dc-382dc49ef810)
+![6bb2469b6a58fb49ed786d38aa95cab3](../../images/559f3c66-5885-4de8-97dc-382dc49ef810.png)

@@ -27,4 +27,4 @@ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 Content-Length: 19
 ```
 
-![image](https://github.com/wy876/POC/assets/139549762/fe20943d-db7b-4a6e-85c1-b259e410f0ac)
+![image](../../images/fe20943d-db7b-4a6e-85c1-b259e410f0ac.png)

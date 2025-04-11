@@ -37,7 +37,7 @@ Content-Length: 3680
 ```
 然后再 Get 访问/mobile_portal/api/systemLog/pns/loadLog/app.log
 
-![ef21d114d1965815537db98570d2daf7](https://github.com/wy876/POC/assets/139549762/b3609c72-0516-4c69-a64f-62c86fffb30d)
+![ef21d114d1965815537db98570d2daf7](../../images/b3609c72-0516-4c69-a64f-62c86fffb30d.png)
 
 ## 漏洞分析
 ```

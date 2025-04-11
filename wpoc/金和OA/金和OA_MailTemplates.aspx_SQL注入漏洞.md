@@ -20,6 +20,6 @@ Connection: close
 
 ```
 
-![image](https://github.com/wy876/POC/assets/139549762/e0ea8fe9-db1d-4f17-ba75-d8dc01cb085f)
+![image](../../images/e0ea8fe9-db1d-4f17-ba75-d8dc01cb085f.png)
 
-![image](https://github.com/wy876/POC/assets/139549762/c3b40a68-6354-4667-ba6c-5f061b5f050f)
+![image](../../images/c3b40a68-6354-4667-ba6c-5f061b5f050f.png)

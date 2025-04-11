@@ -26,7 +26,7 @@ Content-Type: image/png
 
 ------9fh1lo9qobtszaiahg6v--
 ```
-![image](https://github.com/wy876/POC/assets/139549762/5bb65609-982b-4ebb-9242-3da526eee36b)
+![image](../../images/5bb65609-982b-4ebb-9242-3da526eee36b.png)
 
 访问上传文件路径：
 http://your_ip/C6/qps4cckjuz.asp

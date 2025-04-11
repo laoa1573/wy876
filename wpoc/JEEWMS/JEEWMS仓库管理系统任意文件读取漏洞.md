@@ -4,7 +4,7 @@
 ```
 body="plug-in/lhgDialog/lhgdialog.min.js?skin=metro"或者fid="cC2r/XQpJXcYiYFHOc77bg=="
 ```
-![image](https://github.com/wy876/POC/assets/139549762/0fc82b26-4cd9-4924-b461-aa64aef53160)
+![image](../../images/0fc82b26-4cd9-4924-b461-aa64aef53160.png)
 
 ## poc
 ```
@@ -19,4 +19,4 @@ Accept-Language: zh-CN,zh;q=0.9
 Connection: close
 ```
 
-![image](https://github.com/wy876/POC/assets/139549762/490b9323-3a5c-4f4a-8ca0-24e2f1ecbf6d)
+![image](../../images/490b9323-3a5c-4f4a-8ca0-24e2f1ecbf6d.png)

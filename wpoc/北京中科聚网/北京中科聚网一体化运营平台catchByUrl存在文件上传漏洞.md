@@ -16,6 +16,6 @@ Accept-Language: en-US;q=0.9,en;q=0.8
 Connection: close
 ```
 
-![image](https://github.com/wy876/POC/assets/139549762/3e2d95ec-d3e1-44a9-aed6-17152ed0a3aa)
+![image](../../images/3e2d95ec-d3e1-44a9-aed6-17152ed0a3aa.png)
 
 文件路径`http://ip/files/headimg/.jsp`

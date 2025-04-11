@@ -36,8 +36,8 @@ Content-Disposition: form-data; name="saveServer"
 1
 ------WebKitFormBoundaryAT7qVwFychEm0Dt7--
 ```
-![6bd4f09c49b722c1fca0f0b409775c0a](https://github.com/wy876/POC/assets/139549762/bd4e87b8-f8b4-41da-8f24-a9d988c1645b)
+![6bd4f09c49b722c1fca0f0b409775c0a](../../images/bd4e87b8-f8b4-41da-8f24-a9d988c1645b.png)
 
 文件路径：`http://127.0.0.1:6868/demo/1.jsp`
 
-![07321afe81c0e7b261bdb201c492e9bc](https://github.com/wy876/POC/assets/139549762/31e37298-b669-4bd7-a0c1-47afc5222f05)
+![07321afe81c0e7b261bdb201c492e9bc](../../images/31e37298-b669-4bd7-a0c1-47afc5222f05.png)

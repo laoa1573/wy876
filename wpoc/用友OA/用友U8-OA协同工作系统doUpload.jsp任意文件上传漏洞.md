@@ -4,7 +4,7 @@
 ```
 "用友U8 Cloud"
 ```
-![image](https://github.com/wy876/POC/assets/139549762/c39bc2dc-867f-451b-af53-3ea1093e9546)
+![image](../../images/c39bc2dc-867f-451b-af53-3ea1093e9546.png)
 
 ## poc
 ```
@@ -25,4 +25,4 @@ Content-Type: application/octet-stream
 --7b1db34fff56ef636e9a5cebcd6c9a75--
 ```
 
-![image](https://github.com/wy876/POC/assets/139549762/2beed268-4f9f-4548-bdf9-a8a7f361f660)
+![image](../../images/2beed268-4f9f-4548-bdf9-a8a7f361f660.png)

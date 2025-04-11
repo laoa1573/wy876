@@ -18,6 +18,6 @@ User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/201001
 se
 ```
 ## 漏洞复现
-![](./assets/780475ed2a4b528fe68184a4f665a7d1fe08f3.png)
+![](../../assets/780475ed2a4b528fe68184a4f665a7d1fe08f3.png)
 
-![](./assets/7171140331ad9063b8e9a92e8161c325c0b418.png)
+![](../../assets/7171140331ad9063b8e9a92e8161c325c0b418.png)

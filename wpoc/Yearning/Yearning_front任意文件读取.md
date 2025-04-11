@@ -18,4 +18,4 @@ Accept-Encoding: gzip, deflate
 Upgrade-Insecure-Requests: 1
 ```
 
-![9cc6509574f5743d5897ae8fe139684d](https://github.com/wy876/POC/assets/139549762/ac553904-42aa-42be-adc3-59eedc62f7f2)
+![9cc6509574f5743d5897ae8fe139684d](../../images/ac553904-42aa-42be-adc3-59eedc62f7f2.png)

@@ -36,4 +36,4 @@ Content-Length: 154
 写入文件路径
 `http://xx.xx.xx.xx/portal/ui/static/js/123.js`
 
-<img width="1302" alt="image-20240307102647932" src="https://github.com/wy876/POC/assets/139549762/476f1181-d7e0-4485-862c-856a64317681">
+<img width="1302" alt="image-20240307102647932" src="../../images/476f1181-d7e0-4485-862c-856a64317681.png">

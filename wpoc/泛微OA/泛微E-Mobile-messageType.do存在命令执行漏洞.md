@@ -26,4 +26,4 @@ Content-Disposition: form-data; name="typeName"
 --00content0boundary00--
 ```
 
-![90409c8e819b08d13a4b913b19e24622](https://github.com/wy876/POC/assets/139549762/818056b2-da6a-4289-b8ec-54d179d4bc82)
+![90409c8e819b08d13a4b913b19e24622](../../images/818056b2-da6a-4289-b8ec-54d179d4bc82.png)

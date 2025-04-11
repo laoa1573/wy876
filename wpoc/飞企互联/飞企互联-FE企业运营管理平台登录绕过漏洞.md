@@ -12,4 +12,4 @@ http://your-ip/2.ln?SYS_LINK=77507068764957484a5067777862714f457a66574871642f433
 ```
 直接拼接url即可进入后台
 
-![fd7e14ccbaa56a175bd9ab981fcced4b](https://github.com/wy876/POC/assets/139549762/96ef5111-e48d-4dac-935c-dcb2003f2cd6)
+![fd7e14ccbaa56a175bd9ab981fcced4b](../../images/96ef5111-e48d-4dac-935c-dcb2003f2cd6.png)

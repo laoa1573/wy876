@@ -32,4 +32,4 @@ Connection: close
 }
 ```
 
-![image](https://github.com/wy876/POC/assets/139549762/14d82902-beda-4cd6-ba4f-75cb4f32fc2a)
+![image](../../images/14d82902-beda-4cd6-ba4f-75cb4f32fc2a.png)

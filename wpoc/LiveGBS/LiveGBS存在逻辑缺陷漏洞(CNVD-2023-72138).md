@@ -15,4 +15,4 @@ Connection: close
 
 ```
 
-![image](https://github.com/wy876/POC/assets/139549762/c77b5b4e-f3c0-4653-82a6-ebd9756f431e)
+![image](../../images/c77b5b4e-f3c0-4653-82a6-ebd9756f431e.png)

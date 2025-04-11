@@ -24,7 +24,7 @@ Content-Type: application/msword
 082863327
 --fa48ebfef59b133a8cd5275661b35d2c--
 ```
-![image](https://github.com/wy876/POC/assets/139549762/28bb2ff0-4455-40aa-95b3-c1815f2ee85b)
+![image](../../images/28bb2ff0-4455-40aa-95b3-c1815f2ee85b.png)
 
 上传的shell地址拼接：
 

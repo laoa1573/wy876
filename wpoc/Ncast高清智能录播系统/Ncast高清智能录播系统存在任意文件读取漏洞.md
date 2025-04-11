@@ -18,4 +18,4 @@ Cookie: PHPSESSID=xxxx
 Connection: close
 ```
 
-![f16b573778c2032b1efded155edef6e1](https://github.com/wy876/POC/assets/139549762/4e73f0f0-e917-41f2-8b8a-faf0cc44a19d)
+![f16b573778c2032b1efded155edef6e1](../../images/4e73f0f0-e917-41f2-8b8a-faf0cc44a19d.png)

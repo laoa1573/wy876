@@ -23,6 +23,6 @@ Content-Disposition: form-data; name="file";filename="../../../../appsvr/tomcat/
 b9Q2Itmn1
 ------WebKitFormBoundarymVk33liI64J7GQaK--
 ```
-![0302764cce0476f1d9d11374c18c024b](https://github.com/wy876/POC/assets/139549762/84018feb-2591-45a6-bf0f-663f32e7d98f)
+![0302764cce0476f1d9d11374c18c024b](../../images/84018feb-2591-45a6-bf0f-663f32e7d98f.png)
 
-![5cd4ffd5a4d86ad03d7208e3cc646f86](https://github.com/wy876/POC/assets/139549762/62003fb2-0dea-4dde-87ad-4c4165cc55d8)
+![5cd4ffd5a4d86ad03d7208e3cc646f86](../../images/62003fb2-0dea-4dde-87ad-4c4165cc55d8.png)

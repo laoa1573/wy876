@@ -23,9 +23,9 @@ Content-Type: image/png
 
 ```
 
-![image](https://github.com/wy876/POC/assets/139549762/040e8f76-a72c-47db-a161-d14cab5db001)
+![image](../../images/040e8f76-a72c-47db-a161-d14cab5db001.png)
 
-![image](https://github.com/wy876/POC/assets/139549762/bea567d7-6648-4cbe-990a-8fbb876d7660)
+![image](../../images/bea567d7-6648-4cbe-990a-8fbb876d7660.png)
 
 
 ## 漏洞来源

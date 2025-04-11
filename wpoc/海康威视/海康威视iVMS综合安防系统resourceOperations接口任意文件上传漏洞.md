@@ -4,7 +4,7 @@
 ```
 web.body="/views/home/file/installPackage.rar"
 ```
-![33552763e8f0dc7bf3ee49698486a07d](https://github.com/wy876/POC/assets/139549762/9b75816d-eead-4aef-9411-6cd9ecec938f)
+![33552763e8f0dc7bf3ee49698486a07d](../../images/9b75816d-eead-4aef-9411-6cd9ecec938f.png)
 
 ## poc
 ```python
@@ -66,7 +66,7 @@ if __name__ == '__main__':
         for i in open(args.file,"r").read().split("\n"):
             poc(i)
 ```
-![7561a68dd370ef377060f8b033db4842](https://github.com/wy876/POC/assets/139549762/bf160518-070d-4953-ab47-15c5f7786b12)
+![7561a68dd370ef377060f8b033db4842](../../images/bf160518-070d-4953-ab47-15c5f7786b12.png)
 
 ## 漏洞来源
 - https://mp.weixin.qq.com/s/W9cLutTOXjmplVKzEKH9Zg

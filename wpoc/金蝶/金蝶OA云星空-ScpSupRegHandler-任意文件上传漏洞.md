@@ -41,9 +41,9 @@ Content-Type: text/plain
 --2ac719f8e29343df94aa4ab49e456061-
 ```
 
-![image](https://github.com/wy876/POC/assets/139549762/0175cf8c-a854-4b15-800c-7a07e3d0306c)
+![image](../../images/0175cf8c-a854-4b15-800c-7a07e3d0306c.png)
 
-![image](https://github.com/wy876/POC/assets/139549762/7e731399-8257-448b-9ab4-2260d9c4dc43)
+![image](../../images/7e731399-8257-448b-9ab4-2260d9c4dc43.png)
 
 ### 文件上传路径
 ```

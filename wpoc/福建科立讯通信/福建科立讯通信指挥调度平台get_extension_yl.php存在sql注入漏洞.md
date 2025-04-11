@@ -17,4 +17,4 @@ Cookie: authcode=h8g9
 Upgrade-Insecure-Requests: 1
 ```
 
-![3973d557bffaa4172f8077fe5f50f364](https://github.com/wy876/POC/assets/139549762/ec6a38f0-74ff-4be7-a668-f1af3aa0722c)
+![3973d557bffaa4172f8077fe5f50f364](../../images/ec6a38f0-74ff-4be7-a668-f1af3aa0722c.png)

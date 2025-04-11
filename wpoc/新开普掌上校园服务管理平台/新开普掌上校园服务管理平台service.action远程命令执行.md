@@ -19,6 +19,6 @@ Upgrade-Insecure-Requests: 1
 
 ```
 
-![image](https://github.com/wy876/POC/assets/139549762/1743d6a9-3472-4e9e-ad0e-86b1d5a50dac)
-![image](https://github.com/wy876/POC/assets/139549762/67e35c0c-6892-409c-9239-425b79566650)
+![image](../../images/1743d6a9-3472-4e9e-ad0e-86b1d5a50dac.png)
+![image](../../images/67e35c0c-6892-409c-9239-425b79566650.png)
 

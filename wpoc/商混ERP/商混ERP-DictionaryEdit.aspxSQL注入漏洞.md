@@ -15,4 +15,4 @@ Accept-Language: zh-CN,zh;q=0.9
 User-Agent: Mozilla/5.0
 ```
 
-![1b7bdddf5e50c3666285f6e2f366df73](https://github.com/wy876/POC/assets/139549762/e5872135-ff83-4e8a-a260-049034511ce9)
+![1b7bdddf5e50c3666285f6e2f366df73](../../images/e5872135-ff83-4e8a-a260-049034511ce9.png)

@@ -17,4 +17,4 @@ Host: xx.xxx.xxx.xxx
 Accept-Charset: utf-8
 ```
 
-![2099c8aae5cff9620805364eacbd9ea8](https://github.com/wy876/POC/assets/139549762/b1cb6ae4-3588-4de9-a97d-e57bc6607f7c)
+![2099c8aae5cff9620805364eacbd9ea8](../../images/b1cb6ae4-3588-4de9-a97d-e57bc6607f7c.png)

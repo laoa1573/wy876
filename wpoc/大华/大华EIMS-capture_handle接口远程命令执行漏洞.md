@@ -22,6 +22,6 @@ Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
 Host: :9080
 ```
 
-![63e62605aa1608f45153df0fd67b3632](https://github.com/wy876/POC/assets/139549762/f46556c9-dea7-4e50-9199-29229d977d2f)
+![63e62605aa1608f45153df0fd67b3632](../../images/f46556c9-dea7-4e50-9199-29229d977d2f.png)
 
-![c5f4eb4662d85c100e7e6dc67621a6e8](https://github.com/wy876/POC/assets/139549762/8a08fbe3-57cc-4d99-a202-8fa23ad69779)
+![c5f4eb4662d85c100e7e6dc67621a6e8](../../images/8a08fbe3-57cc-4d99-a202-8fa23ad69779.png)

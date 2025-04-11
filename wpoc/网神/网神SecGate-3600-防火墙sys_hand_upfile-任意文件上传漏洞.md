@@ -30,7 +30,7 @@ sys_hand_upfile
 --gttd4i4aadwh9lmlp1ez--
 ```
 
-![image](https://github.com/wy876/POC/assets/139549762/6ba66f9f-affd-4600-ac29-2cfe98502b45)
+![image](../../images/6ba66f9f-affd-4600-ac29-2cfe98502b45.png)
 
 访问文件路径
 http//127.0.0.1/attachements/ceshi.php

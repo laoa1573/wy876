@@ -23,7 +23,7 @@ isDis=1&browserTypeId=269&keyword=%25%32%35%25%33%36%25%33%31%25%32%35%25%33%32%
 ```
 payload需要经过三次url编码，文末附tamper脚本地址
 
-![image](https://github.com/wy876/POC/assets/139549762/ac471b51-419f-4e7e-bb29-6eadd24a8ec1)
+![image](../../images/ac471b51-419f-4e7e-bb29-6eadd24a8ec1.png)
 
 
 ## 批量检测脚本

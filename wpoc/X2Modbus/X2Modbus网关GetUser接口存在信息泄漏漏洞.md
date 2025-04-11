@@ -25,7 +25,7 @@ Content-Length: 56
 <GetUser><User Name="admin" Password="admin"/></GetUser>
 ```
 
-![0efca01612b48aa66c17126e7be35e06](https://github.com/wy876/POC/assets/139549762/9a80e573-c806-48ed-a2f3-6d3b418c6efd)
+![0efca01612b48aa66c17126e7be35e06](../../images/9a80e573-c806-48ed-a2f3-6d3b418c6efd.png)
 
 ## nuclei
 ```

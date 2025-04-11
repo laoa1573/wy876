@@ -21,6 +21,6 @@ Content-Disposition: form-data; name="submit"
 ------WebKitFormBoundaryoDIsCqVMmF83ptmp
 ```
 
-![image](https://github.com/wy876/POC/assets/139549762/64e73208-5e7f-4dfe-a3eb-4a56057d6969)
+![image](../../images/64e73208-5e7f-4dfe-a3eb-4a56057d6969.png)
 
 文件路径：`http:127.0.0.1/mp/uploadFileDir/test.jsp`

@@ -31,7 +31,7 @@ Submin
 -----------------------------352149293954742437289922451--
 ```
 
-![adb288fb428b3c35f303468198c26dc6](https://github.com/wy876/POC/assets/139549762/4510946f-a8c9-4ea5-92bc-ef5ba62ebfae)
+![adb288fb428b3c35f303468198c26dc6](../../images/4510946f-a8c9-4ea5-92bc-ef5ba62ebfae.png)
 
 ## nuclei 
 ```

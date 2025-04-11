@@ -27,6 +27,6 @@ Content-Disposition: form-data; name="upload"
 upload
 -----------------------------269520967239406871642430066855--
 ```
-![image](https://github.com/wy876/POC/assets/139549762/dc0c03e9-ad57-4baa-bc90-48e9222bccba)
+![image](../../images/dc0c03e9-ad57-4baa-bc90-48e9222bccba.png)
 
 文件路径：`http://127.0.0.1/tmpfile/{{path}}.tmp.php`

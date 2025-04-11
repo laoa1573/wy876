@@ -17,4 +17,4 @@ X-Forwarded-For: 127.0.0.1
 Connection: close
 ```
 
-![image](https://github.com/wy876/POC/assets/139549762/5607d664-803e-487c-9f25-7e303938b220)
+![image](../../images/5607d664-803e-487c-9f25-7e303938b220.png)

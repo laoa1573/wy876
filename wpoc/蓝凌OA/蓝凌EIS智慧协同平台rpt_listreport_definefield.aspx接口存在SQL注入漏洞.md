@@ -18,4 +18,4 @@ Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
 Upgrade-Insecure-Requests: 1
 ```
 
-![8353ecc402034f2c617f991e8081a2b3](https://github.com/wy876/POC/assets/139549762/56cffa50-5864-49b4-bd42-f1b77b71214b)
+![8353ecc402034f2c617f991e8081a2b3](../../images/56cffa50-5864-49b4-bd42-f1b77b71214b.png)

@@ -10,7 +10,7 @@ v4.2.1~v4.2.0
 ## 环境部署
 本地源码启动或者docker部署
 
-![image](https://github.com/wy876/POC/assets/139549762/ad4f21c4-0edf-44d9-8ab8-303c42b3e1f3)
+![image](../../images/ad4f21c4-0edf-44d9-8ab8-303c42b3e1f3.png)
 
 
 ## 任意文件上传
@@ -34,15 +34,15 @@ if __name__ == "__main__":
 
 
 
-![image](https://github.com/wy876/POC/assets/139549762/a85df4cd-a9fd-47a4-b02e-cbeb7770bdb0)
+![image](../../images/a85df4cd-a9fd-47a4-b02e-cbeb7770bdb0.png)
 
 
 上传文件并预览
 
-![image](https://github.com/wy876/POC/assets/139549762/6c027fca-b554-4920-ad1a-93307a82d1e5)
+![image](../../images/6c027fca-b554-4920-ad1a-93307a82d1e5.png)
 
 
-![image](https://github.com/wy876/POC/assets/139549762/2f6dec05-7d0b-47a3-8b9f-d1b5bfebaf21)
+![image](../../images/2f6dec05-7d0b-47a3-8b9f-d1b5bfebaf21.png)
 
 发现成功穿越
 
@@ -67,22 +67,22 @@ if __name__ == "__main__":
 ```
 制作恶意的zip包 上传并预览
 
-![image](https://github.com/wy876/POC/assets/139549762/1d09daaa-c0a7-4d36-8bcc-6087d2033d6b)
+![image](../../images/1d09daaa-c0a7-4d36-8bcc-6087d2033d6b.png)
 
 
 再随便上传一个odt文件，另其发起libreoffice任务 上传并预览
 
-![image](https://github.com/wy876/POC/assets/139549762/35e50906-d5da-41a6-9310-fc40c614b6ab)
+![image](../../images/35e50906-d5da-41a6-9310-fc40c614b6ab.png)
 
 
 可以看到命令成功被执行
 
-![image](https://github.com/wy876/POC/assets/139549762/7afcb974-479b-47d2-aebd-a214bbcfb6e5)
+![image](../../images/7afcb974-479b-47d2-aebd-a214bbcfb6e5.png)
 
 
 uno.py中也确实被写入了内容
 
-![image](https://github.com/wy876/POC/assets/139549762/1c83cb1c-9c37-4a7c-8cd0-8f4e615469fa)
+![image](../../images/1c83cb1c-9c37-4a7c-8cd0-8f4e615469fa.png)
 
 ## 漏洞来源
 - https://github.com/luelueking/kkFileView-v4.3.0-RCE-POC

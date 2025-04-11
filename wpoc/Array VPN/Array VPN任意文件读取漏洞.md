@@ -20,4 +20,4 @@ Upgrade-Insecure-Requests: 1
 Connection: close
 
 ```
-![image](https://github.com/wy876/POC/assets/139549762/a6915f3f-2242-4d1d-b3a3-9ff452439cbc)
+![image](../../images/a6915f3f-2242-4d1d-b3a3-9ff452439cbc.png)

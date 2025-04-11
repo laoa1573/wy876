@@ -32,6 +32,6 @@ Content-Disposition: form-data; name="folder"
 -----------------------------36D28FBc36bd6feE7Fb3--
 ```
 
-![image-20240521201624377](./assets/202405212016419.png)
+![image-20240521201624377](../../assets/202405212016419.png)
 
 文件路径`http://127.0.0.1//storage/uploads/文件名.php`

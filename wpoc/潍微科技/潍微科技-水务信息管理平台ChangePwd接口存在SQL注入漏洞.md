@@ -17,4 +17,4 @@ Accept-Encoding: gzip, deflate, br
 Connection: close
 ```
 
-![a6fd2eeb352ff857001c3613ec992f16](https://github.com/wy876/POC/assets/139549762/db189bee-4a6a-4159-a39f-c07c138e0c59)
+![a6fd2eeb352ff857001c3613ec992f16](../../images/db189bee-4a6a-4159-a39f-c07c138e0c59.png)

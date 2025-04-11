@@ -21,4 +21,4 @@ Connection: close
 username=admin&funcName=SelOperators
 ```
 
-![3eaa4e853a17b1795bf485fb1cc1a852](https://github.com/wy876/POC/assets/139549762/846ddccb-4df2-4a8a-a3b0-e51ecb15a65d)
+![3eaa4e853a17b1795bf485fb1cc1a852](../../images/846ddccb-4df2-4a8a-a3b0-e51ecb15a65d.png)

@@ -25,4 +25,4 @@ SOAPAction: "http://tempuri.org/UploadResume"
   </soap:Body>
 </soap:Envelope>
 ```
-![image](https://github.com/wy876/POC/assets/139549762/1535e458-f196-46d7-b63c-f45ba47d85a6)
+![image](../../images/1535e458-f196-46d7-b63c-f45ba47d85a6.png)

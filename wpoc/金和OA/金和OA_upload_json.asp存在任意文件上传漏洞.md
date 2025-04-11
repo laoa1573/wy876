@@ -31,9 +31,9 @@ hhh
 -----------------------------153857212076213662067051609723--
 ```
 
-![image](https://github.com/wy876/POC/assets/139549762/2c14919b-e00d-49bf-8b94-21b5696bb8fe)
+![image](../../images/2c14919b-e00d-49bf-8b94-21b5696bb8fe.png)
 
 访问上传的文件
 /c6/KindEditor1/asp/../attached/file/20240103/20240103164534323432.txt
 
-![image](https://github.com/wy876/POC/assets/139549762/20dd3197-a7f9-4a74-863d-050603eab427)
+![image](../../images/20dd3197-a7f9-4a74-863d-050603eab427.png)

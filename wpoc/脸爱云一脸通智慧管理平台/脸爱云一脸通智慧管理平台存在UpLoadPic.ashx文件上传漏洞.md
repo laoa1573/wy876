@@ -35,4 +35,4 @@ Content-Disposition: form-data; name="oldName"
 ------WebKitFormBoundarywt7cEu1eBdibB13u--
 ```
 
-![619efcae85a32a8fdae1b493ff2b8959](https://github.com/wy876/POC/assets/139549762/e9fd66c1-a64f-4f77-be49-cd53198aabe9)
+![619efcae85a32a8fdae1b493ff2b8959](../../images/e9fd66c1-a64f-4f77-be49-cd53198aabe9.png)

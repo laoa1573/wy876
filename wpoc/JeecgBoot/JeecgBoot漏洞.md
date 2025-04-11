@@ -19,11 +19,11 @@ Content-Length: 123
 ```
 使用内存马工具生成payload，将生成的base64格式的内存马 替换payload 中bytecodeBase64的值
 
-![image](https://github.com/wy876/POC/assets/139549762/55a9877c-c111-4897-a665-8f58e9de5300)
+![image](../../images/55a9877c-c111-4897-a665-8f58e9de5300.png)
 
-![image](https://github.com/wy876/POC/assets/139549762/03a476fa-7d2a-4221-9c96-c5b60040adfd)
+![image](../../images/03a476fa-7d2a-4221-9c96-c5b60040adfd.png)
 
-![image](https://github.com/wy876/POC/assets/139549762/24b6b0b2-419c-43d1-a0c8-8ced440e0a79)
+![image](../../images/24b6b0b2-419c-43d1-a0c8-8ced440e0a79.png)
 
 内存马路径：`http://192.168.18.131:8080/jeecg-boot/jmreport/queryFieldBySql/`
 

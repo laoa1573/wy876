@@ -52,7 +52,7 @@ Content-Disposition: form-data; name="denyHosts"
 
 ```
 
-![b6943470264bdb2eced0931fe128785c](https://github.com/wy876/POC/assets/139549762/caf376a2-8465-4488-bf02-1b98978f698d)
+![b6943470264bdb2eced0931fe128785c](../../images/caf376a2-8465-4488-bf02-1b98978f698d.png)
 
-![8b7fbfa7e8cc06d57908229d7dbcdc18](https://github.com/wy876/POC/assets/139549762/3d74fab1-af40-43af-a762-327860f67150)
+![8b7fbfa7e8cc06d57908229d7dbcdc18](../../images/3d74fab1-af40-43af-a762-327860f67150.png)
 

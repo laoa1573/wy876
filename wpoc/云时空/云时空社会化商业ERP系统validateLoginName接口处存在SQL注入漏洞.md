@@ -16,4 +16,4 @@ Accept-Language: zh-CN,zh;q=0.9
 Connection: close
 ```
 
-![b7009bbcc1323bb5ad48105abc815195](https://github.com/wy876/POC/assets/139549762/56ecb0a8-6e71-467f-8f00-e96e5d8e1969)
+![b7009bbcc1323bb5ad48105abc815195](../../images/56ecb0a8-6e71-467f-8f00-e96e5d8e1969.png)

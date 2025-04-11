@@ -24,4 +24,4 @@ SL-CE-SUID: 25
 ```
 延迟时间大于5秒
 
-![0369e1c147602f35b76105a4f2aebd91](https://github.com/wy876/POC/assets/139549762/0aee421c-131e-4a03-b2d9-c046abdb27f2)
+![0369e1c147602f35b76105a4f2aebd91](../../images/0aee421c-131e-4a03-b2d9-c046abdb27f2.png)

@@ -28,10 +28,10 @@ Content-Type: image/jpeg
 --e64bdf16c554bbc109cecef6451c26a4--
 ```
 
-![64b885a2ae7aa10cf5b5773c0495b7b3](https://github.com/wy876/POC/assets/139549762/e67a6a19-1034-430b-8f13-995aaf7c6e0f)
+![64b885a2ae7aa10cf5b5773c0495b7b3](../../images/e67a6a19-1034-430b-8f13-995aaf7c6e0f.png)
 
 文件上传路径
 
 `/images/logo/logo-eoffice.php`
 
-![7955aa06c40c915e09ea9609e52cba8f](https://github.com/wy876/POC/assets/139549762/ad038d5e-0d77-4ae2-b1cf-f41988bde59a)
+![7955aa06c40c915e09ea9609e52cba8f](../../images/ad038d5e-0d77-4ae2-b1cf-f41988bde59a.png)

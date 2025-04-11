@@ -31,7 +31,7 @@ Response.Write("test");
 %>
 ------WebKitFormBoundaryVBf7Cs8QWsfwC82M--
 ```
-![image](https://github.com/wy876/POC/assets/139549762/d0ffa0f8-63dc-44e5-8711-d64d16ce9653)
+![image](../../images/d0ffa0f8-63dc-44e5-8711-d64d16ce9653.png)
 
 上传后的路径：http://127.0.0.1/test.aspx
 

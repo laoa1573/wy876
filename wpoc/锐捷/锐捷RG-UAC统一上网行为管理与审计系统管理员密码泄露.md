@@ -12,4 +12,4 @@ title="RG-UAC登录页面" && body="admin"
 
 ## 漏洞复现
 右键查看源代码 搜索 admin 即可找到admin md5密码
-![](./assets/20231121190212.png)
+![](../../assets/20231121190212.png)

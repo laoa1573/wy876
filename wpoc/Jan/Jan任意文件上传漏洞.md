@@ -39,8 +39,8 @@ Connection: close
 
 ["file:/../../../../../tmp/a.txt","utf-8"]
 ```
-![image](https://github.com/wy876/POC/assets/139549762/0558b716-4096-4789-a8cb-2bcebab4a009)
+![image](../../images/0558b716-4096-4789-a8cb-2bcebab4a009.png)
 
-![image](https://github.com/wy876/POC/assets/139549762/a6bb5774-5e79-4b2a-86a7-e2a60b333fa9)
+![image](../../images/a6bb5774-5e79-4b2a-86a7-e2a60b333fa9.png)
 
 

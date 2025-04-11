@@ -34,10 +34,10 @@ skylar_report
 -----------------------------55433477442814818502792421460
 ```
 
-![ee8643c18675a73d8d0a327cb110adde](https://github.com/wy876/POC/assets/139549762/e202d50b-2860-47b8-8670-07b015a5cc7f)
+![ee8643c18675a73d8d0a327cb110adde](../../images/e202d50b-2860-47b8-8670-07b015a5cc7f.png)
 
 #### 访问上传文件路径如下：
 `http://xxxx/application/api/controllers/TController2.php`
 
-![099c23949f851175f1e3306c0c102637](https://github.com/wy876/POC/assets/139549762/73b370c6-2c4f-4422-ada3-33ebf4a952b2)
+![099c23949f851175f1e3306c0c102637](../../images/73b370c6-2c4f-4422-ada3-33ebf4a952b2.png)
 

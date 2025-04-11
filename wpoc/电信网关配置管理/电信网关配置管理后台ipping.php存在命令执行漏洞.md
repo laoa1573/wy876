@@ -21,4 +21,4 @@ Upgrade-Insecure-Requests: 1
 
 ipaddr=127.0.0.1;ls
 ```
-![image](https://github.com/wy876/POC/assets/139549762/5c08273c-6607-4c66-a7f6-638c448aa4cb)
+![image](../../images/5c08273c-6607-4c66-a7f6-638c448aa4cb.png)

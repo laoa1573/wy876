@@ -13,7 +13,7 @@ User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like 
 
 ```
 
-![46a8923aca7c87333e82efadd74cf08c](https://github.com/wy876/POC/assets/139549762/fed4855b-bedf-436b-ba41-9df02ee8ae6d)
+![46a8923aca7c87333e82efadd74cf08c](../../images/fed4855b-bedf-436b-ba41-9df02ee8ae6d.png)
 
 ## nuclei
 ```

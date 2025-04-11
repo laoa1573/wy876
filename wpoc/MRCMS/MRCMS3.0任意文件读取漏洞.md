@@ -22,4 +22,4 @@ Sec-Fetch-Mode: cors
 X-Requested-With: XMLHttpRequest
 ```
 
-![image](https://github.com/wy876/POC/assets/139549762/39dbdc2a-d6d5-481f-b9bb-8bbb0cbac76c)
+![image](../../images/39dbdc2a-d6d5-481f-b9bb-8bbb0cbac76c.png)

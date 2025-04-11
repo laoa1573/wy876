@@ -11,4 +11,4 @@ title="EasyCVR"
 /api/v1/userlist?pageindex=0&pagesize=10
 
 ```
-![image](https://github.com/wy876/POC/assets/139549762/cc8c8dd3-bd7e-49a9-b22f-a6a97215cf6a)
+![image](../../images/cc8c8dd3-bd7e-49a9-b22f-a6a97215cf6a.png)

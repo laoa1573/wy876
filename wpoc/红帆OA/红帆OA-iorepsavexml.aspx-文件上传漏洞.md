@@ -80,7 +80,7 @@ func uploader(target string) {
 
 ```
 
-![image](https://github.com/wy876/POC/assets/139549762/39e2c87c-080f-42f6-a7a2-5f79fc6d9204)
+![image](../../images/39e2c87c-080f-42f6-a7a2-5f79fc6d9204.png)
 
 ## yaml poc
 ```

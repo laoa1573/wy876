@@ -81,4 +81,4 @@ Content-Length: 276
    </soap:Body>
 </soap:Envelope>
 ```
-![06af483645506a73282224859d3e03df](https://github.com/wy876/POC/assets/139549762/567ff592-a7c5-4c87-bb33-10220e8eb118)
+![06af483645506a73282224859d3e03df](../../images/567ff592-a7c5-4c87-bb33-10220e8eb118.png)

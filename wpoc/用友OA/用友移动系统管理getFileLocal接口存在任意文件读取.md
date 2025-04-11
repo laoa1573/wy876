@@ -23,7 +23,7 @@ Cookie: JSESSIONID=B9F1AC8D34E9DFD16A3A7A4B9CEE4EF9.server
 Connection: close
 ```
 
-![bfcd2c07d015740a8aba3551db27bda2](https://github.com/wy876/POC/assets/139549762/8633208d-fe21-4ae2-a365-d2f45639dbc8)
+![bfcd2c07d015740a8aba3551db27bda2](../../images/8633208d-fe21-4ae2-a365-d2f45639dbc8.png)
 
 
 ## nuclei 

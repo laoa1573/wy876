@@ -68,7 +68,7 @@ Content-Disposition: form-data; name="accesstime"
 accesstime
 -----------------------------113389720123090127612523184396--
 ```
-![81ef3be26a9c8e7345c3dadbee961d57](https://github.com/wy876/POC/assets/139549762/70ac5fd6-cb31-46ff-a5d1-c68c18efb006)
+![81ef3be26a9c8e7345c3dadbee961d57](../../images/70ac5fd6-cb31-46ff-a5d1-c68c18efb006.png)
 
 
 ## Nuclei-POC

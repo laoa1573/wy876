@@ -23,4 +23,4 @@ dll=DispartSell_Core.dll&class=DispartSell_Core.BaseData.DrpDataManager&method=G
 ```
 
 
-![image](https://github.com/wy876/POC/assets/139549762/7ce08043-58c9-405b-9714-f7854852abf3)
+![image](../../images/7ce08043-58c9-405b-9714-f7854852abf3.png)

@@ -20,6 +20,6 @@ Accept-Encoding: gzip, deflate, br
 
 filePath=dmvckiil.aspx&fileContent=123123
 ```
-![7c62372ac4c93cda2a5dbc1ab4b5a986](https://github.com/wy876/POC/assets/139549762/c36d1b3f-f839-40c3-a6ab-23669a0b89dd)
+![7c62372ac4c93cda2a5dbc1ab4b5a986](../../images/c36d1b3f-f839-40c3-a6ab-23669a0b89dd.png)
 
-![940cc53a8930c36235859b455f3983ca](https://github.com/wy876/POC/assets/139549762/097b6b6f-1cde-4aad-96f7-7e70a0f6bbe0)
+![940cc53a8930c36235859b455f3983ca](../../images/097b6b6f-1cde-4aad-96f7-7e70a0f6bbe0.png)

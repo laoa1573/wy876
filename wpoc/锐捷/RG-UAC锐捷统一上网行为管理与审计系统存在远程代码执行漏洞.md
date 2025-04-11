@@ -12,4 +12,4 @@ app="Ruijie-RG-UAC"
 
 ```
 
-![image](https://github.com/wy876/POC/assets/139549762/a10f13fb-884b-4c74-b912-f08936bb25ff)
+![image](../../images/a10f13fb-884b-4c74-b912-f08936bb25ff.png)

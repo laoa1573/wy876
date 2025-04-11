@@ -44,4 +44,4 @@ Content-Length: 1191
          </soapenv:Envelope>
 ```
 
-![image](https://github.com/wy876/POC/assets/139549762/42e1f5bc-53dd-410e-9068-9ca96bd4245e)
+![image](../../images/42e1f5bc-53dd-410e-9068-9ca96bd4245e.png)

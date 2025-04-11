@@ -16,4 +16,4 @@ Content-Length: 0
 
 ```
 
-![bbcbc39875947528038008fe2d547f1c](https://github.com/wy876/POC/assets/139549762/67677f55-7833-4daf-8204-c166b9c49141)
+![bbcbc39875947528038008fe2d547f1c](../../images/67677f55-7833-4daf-8204-c166b9c49141.png)

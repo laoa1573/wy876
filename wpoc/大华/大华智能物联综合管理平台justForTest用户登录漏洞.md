@@ -20,4 +20,4 @@ username=justForTest&password=1&grant_type=password&client_id=web_client&client_
 ```
 出现各种token证明漏洞存在
 
-![image](https://github.com/wy876/POC/assets/139549762/5f1c189e-2d92-4d73-a6c2-8593367c74bb)
+![image](../../images/5f1c189e-2d92-4d73-a6c2-8593367c74bb.png)

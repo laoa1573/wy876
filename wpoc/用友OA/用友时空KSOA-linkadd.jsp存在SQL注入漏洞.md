@@ -14,4 +14,4 @@ Accept: */*
 Connection: Keep-Alive
 ```
 
-![dddb6abed3843740aef1ca9d49b2b0f2](https://github.com/wy876/POC/assets/139549762/646894eb-bdd1-47a8-a54c-f3479030c97f)
+![dddb6abed3843740aef1ca9d49b2b0f2](../../images/646894eb-bdd1-47a8-a54c-f3479030c97f.png)

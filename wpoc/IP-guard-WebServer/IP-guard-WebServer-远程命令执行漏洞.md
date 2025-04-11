@@ -28,8 +28,8 @@ Accept-Language: zh-CN,zh;q=0.9
 
 ## 漏洞复现
 
-![](./assets/20231109165256.png)
-![](./assets/20231109165333.png)
+![](../../assets/20231109165256.png)
+![](../../assets/20231109165333.png)
 
 ## Python脚本
 ```python

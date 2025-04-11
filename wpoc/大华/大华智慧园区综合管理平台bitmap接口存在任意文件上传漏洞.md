@@ -7,7 +7,7 @@
 ```
 app="dahua-智慧园区综合管理平台"
 ```
-![33323d220d4e626f9db80f3dac6829f6](https://github.com/wy876/POC/assets/139549762/d2b1222c-c509-474d-9c28-92b05ade76c1)
+![33323d220d4e626f9db80f3dac6829f6](../../images/d2b1222c-c509-474d-9c28-92b05ade76c1.png)
 
 
 ## poc
@@ -32,4 +32,4 @@ User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) 
 文件上传路径：http://127.0.0.1/upload/rce.jsp
 
 
-![image](https://github.com/wy876/POC/assets/139549762/f83ff567-1c39-4b96-8985-90c0f06542b3)
+![image](../../images/f83ff567-1c39-4b96-8985-90c0f06542b3.png)

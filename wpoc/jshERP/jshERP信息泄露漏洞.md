@@ -15,4 +15,4 @@ Accept-Language: en
 Accept-Encoding: gzip
 ```
 
-![image](https://github.com/wy876/POC/assets/139549762/c56b507b-923f-46c0-a858-bfa938df0829)
+![image](../../images/c56b507b-923f-46c0-a858-bfa938df0829.png)

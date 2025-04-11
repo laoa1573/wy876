@@ -15,4 +15,4 @@ User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15
 Accept-Encoding: gzip, deflate
 Connection: close
 ```
-![image](https://github.com/wy876/POC/assets/139549762/899ccb8d-22a3-4c5b-a50b-9d8a64ac73aa)
+![image](../../images/899ccb8d-22a3-4c5b-a50b-9d8a64ac73aa.png)

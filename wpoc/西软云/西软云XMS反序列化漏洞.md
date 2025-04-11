@@ -17,7 +17,7 @@ Connection: close
 {{hexdec(cb18x的序列化链)}
 ```
 使用yakit 生成payload
-![c5fe271fed6a284b93b64e1023b2b581](https://github.com/wy876/POC/assets/139549762/2b6a22d6-7125-4f43-ae6a-253a92d83d23)
+![c5fe271fed6a284b93b64e1023b2b581](../../images/2b6a22d6-7125-4f43-ae6a-253a92d83d23.png)
 
-![e79d4907bddf12878c085d3146d856bc](https://github.com/wy876/POC/assets/139549762/799da585-0c34-431e-baa8-f939b19610a3)
+![e79d4907bddf12878c085d3146d856bc](../../images/799da585-0c34-431e-baa8-f939b19610a3.png)
 

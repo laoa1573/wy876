@@ -22,4 +22,4 @@ Sec-Fetch-Site: none
 Sec-Fetch-User: ?1
 ```
 
-![735e80af6f18b931778ed42001b7733e](https://github.com/wy876/POC/assets/139549762/6d8159a2-5884-4a1e-823a-e06705afb37e)
+![735e80af6f18b931778ed42001b7733e](../../images/6d8159a2-5884-4a1e-823a-e06705afb37e.png)

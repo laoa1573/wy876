@@ -74,4 +74,4 @@ Content-Disposition: form-data; name="__hash__"
 ```
 
 ## 漏洞复现
-![](./assets/20231129204159.png)
+![](../../assets/20231129204159.png)

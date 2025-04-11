@@ -2,7 +2,7 @@
 
 HIKVISION iSecure Center综合安防管理平台是一套“集成化”、“智能化”的平台，通过接入视频监控、一卡通、停车场、报警检测等系统的设备。在其某接口处存在任意文件读取漏洞，攻击者可以读取系统任意敏感文件。
 
-![4c21a71d9bf1158fb01d135407cc7937](https://github.com/wy876/POC/assets/139549762/4138463c-5aa9-4443-97b0-a021bfd9876a)
+![4c21a71d9bf1158fb01d135407cc7937](../../images/4138463c-5aa9-4443-97b0-a021bfd9876a.png)
 
 ## fofa
 ```
@@ -54,4 +54,4 @@ requests:
           - contains_all(all_headers,'attachment','fileName')
 
 ```
-![](./assets/20231230200200.png)
+![](../../assets/20231230200200.png)

@@ -25,6 +25,6 @@ Content-Type: image/jpeg
 <% out.println("tteesstt1"); %>
 --ee055230808ca4602e92d0b7c4ecc63d--
 ```
-![66cafb6ff95136b967c3b922ceeb8eb6](https://github.com/wy876/POC/assets/139549762/91a0d8aa-f1c0-4da7-aada-ce8a48e8ffbe)
+![66cafb6ff95136b967c3b922ceeb8eb6](../../images/91a0d8aa-f1c0-4da7-aada-ce8a48e8ffbe.png)
 
 拼接上传路径 http://127.0.0.1/jc6/upload/8a87db028d0c1c8e018d0d8d2d5b1cd9.jsp

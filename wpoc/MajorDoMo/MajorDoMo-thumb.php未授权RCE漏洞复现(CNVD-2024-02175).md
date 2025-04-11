@@ -16,4 +16,4 @@ Accept-Charset: utf-8
 Accept-Encoding: gzip, deflate
 Connection: close
 ```
-![image](https://github.com/wy876/POC/assets/139549762/89f477a7-2e73-4a27-863b-c3ba1fd701e6)
+![image](../../images/89f477a7-2e73-4a27-863b-c3ba1fd701e6.png)

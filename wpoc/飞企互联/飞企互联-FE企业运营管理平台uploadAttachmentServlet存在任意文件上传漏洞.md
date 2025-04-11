@@ -7,7 +7,7 @@ app="FE-协作平台"
 
 访问`/servlet/uploadAttachmentServlet` 出现下面情况说明存在漏洞
 
-![image](https://github.com/wy876/POC/assets/139549762/f6e18f0b-09de-44bc-a9ca-440d92786ee7)
+![image](../../images/f6e18f0b-09de-44bc-a9ca-440d92786ee7.png)
 
 
 ## poc
@@ -33,7 +33,7 @@ Content-Disposition: form-data; name="json"
 {"iq":{"query":{"UpdateType":"mail"}}}
 ------WebKitFormBoundaryKNt0t4vBe8cX9rZk--
 ```
-![image](https://github.com/wy876/POC/assets/139549762/b2d253ca-80e4-4cdf-92e6-575b7cd8ba7e)
+![image](../../images/b2d253ca-80e4-4cdf-92e6-575b7cd8ba7e.png)
 
 
 上传文件地址

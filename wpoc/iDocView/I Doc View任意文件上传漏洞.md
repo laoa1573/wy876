@@ -19,9 +19,9 @@ poc.html
 </html>
 ```
 然后构造 `..\..\..\docview\poc.jsp`  这个是文件
-![image](https://github.com/wy876/POC/assets/139549762/736f7c0a-4f06-4170-805a-cf1580b69de3)
+![image](../../images/736f7c0a-4f06-4170-805a-cf1580b69de3.png)
 
-![image](https://github.com/wy876/POC/assets/139549762/73ab1c2a-ad91-40a3-96b0-0ca978fa9abe)
+![image](../../images/73ab1c2a-ad91-40a3-96b0-0ca978fa9abe.png)
 
 ## 漏洞分析
 ```

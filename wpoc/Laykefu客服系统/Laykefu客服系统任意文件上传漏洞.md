@@ -33,6 +33,6 @@ Content-Type: image/png
 <?php phpinfo();?>
 ------WebKitFormBoundary3OCVBiwBVsNuB2kR--
 ```
-![44dcbdbc80e1e61fca16aff0516cf6c0](https://github.com/wy876/POC/assets/139549762/414797a3-6eb4-4466-a79e-9806adf1c8be)
+![44dcbdbc80e1e61fca16aff0516cf6c0](../../images/414797a3-6eb4-4466-a79e-9806adf1c8be.png)
 
-![d0aeeb4590a1dd0ce9402db1a7888177](https://github.com/wy876/POC/assets/139549762/ad84b8aa-5358-4fb1-881c-edda45b69eb1)
+![d0aeeb4590a1dd0ce9402db1a7888177](../../images/ad84b8aa-5358-4fb1-881c-edda45b69eb1.png)

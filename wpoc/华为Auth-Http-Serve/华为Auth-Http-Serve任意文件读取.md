@@ -11,4 +11,4 @@ server="Huawei Auth-Http Server 1.0"
 /umweb/shadow
 ```
 
-![image](https://github.com/wy876/POC/assets/139549762/6e52e737-0076-4630-9d6f-a9f0a355b549)
+![image](../../images/6e52e737-0076-4630-9d6f-a9f0a355b549.png)

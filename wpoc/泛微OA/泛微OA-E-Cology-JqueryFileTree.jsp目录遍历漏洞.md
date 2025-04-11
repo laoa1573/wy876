@@ -23,4 +23,4 @@ Connection: close
 Upgrade-Insecure-Requests: 1
 ```
 
-![image-20240521201309707](./assets/202405212013765.png)
+![image-20240521201309707](../../assets/202405212013765.png)

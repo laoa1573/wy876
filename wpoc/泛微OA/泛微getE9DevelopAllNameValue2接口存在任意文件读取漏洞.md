@@ -18,4 +18,4 @@ X-Remote-IP: 127.0.0.1
 X-Remote-Addr: 127.0.0.1
 ```
 
-![24965e54432f0dbd1db6d0eb73fd7aa5](https://github.com/wy876/POC/assets/139549762/c4c5a948-191f-4749-8136-a9f1576c4816)
+![24965e54432f0dbd1db6d0eb73fd7aa5](../../images/c4c5a948-191f-4749-8136-a9f1576c4816.png)

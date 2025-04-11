@@ -13,7 +13,7 @@ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 Content-Length: 0
 
 ```
-![b211abfd216e9904485e663877a1e747](https://github.com/wy876/POC/assets/139549762/97cb775c-c793-4384-9205-e718ea321f57)
+![b211abfd216e9904485e663877a1e747](../../images/97cb775c-c793-4384-9205-e718ea321f57.png)
 
 ## Nuclei脚本
 ```

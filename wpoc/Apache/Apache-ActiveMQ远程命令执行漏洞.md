@@ -31,7 +31,7 @@ https://github.com/Hutt0n0/ActiveMqRCE
 </beans>
 ```
 ## 漏洞回显复现
-![](./assets/20231117150110.png)
+![](../../assets/20231117150110.png)
 
 
 ## 漏洞脚本

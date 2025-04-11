@@ -44,13 +44,13 @@ http://xxx.xxx.xxx.xxx:9012/EnjoyRMIS_WS/WS/Hr/CWSHr.asmx
 
 http://xxx.xxx.xxx.xxx:8123/EnjoyRMIS_WS/WS/Hr/CWSHr.asmx?wsdl
 
-![image](https://github.com/wy876/POC/assets/139549762/a0b95351-845e-49c5-ba1e-8831cf85df9e)
+![image](../../images/a0b95351-845e-49c5-ba1e-8831cf85df9e.png)
 
 使用wsdler拓展工具解析
 
-![image](https://github.com/wy876/POC/assets/139549762/0537ac47-e89a-41fa-b925-cca83fba75ae)
+![image](../../images/0537ac47-e89a-41fa-b925-cca83fba75ae.png)
 
 解析完成之后，即可对这些接口进行测试
 
-![image](https://github.com/wy876/POC/assets/139549762/c1206032-8405-40e4-8ab4-69a68ee22d7f)
+![image](../../images/c1206032-8405-40e4-8ab4-69a68ee22d7f.png)
 

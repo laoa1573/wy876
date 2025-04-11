@@ -43,7 +43,7 @@ Content-Type: image/png
 test
 --04844569c7ca7d21a3ca115dca477d62--
 ```
-![3c4d1cec26f6b03e1876b02c2f7029d9](https://github.com/wy876/POC/assets/139549762/d7a2b831-852c-4488-bcd0-f9967d0e32a4)
+![3c4d1cec26f6b03e1876b02c2f7029d9](../../images/d7a2b831-852c-4488-bcd0-f9967d0e32a4.png)
 
 ## 上传文件路径
 ```
@@ -56,4 +56,4 @@ Accept: */*
 Connection: close
 X-Forwarded-For:
 ```
-![47f8b3b0cc61c63d9a0d2d2b54a602dc](https://github.com/wy876/POC/assets/139549762/8a80fc29-9d8e-4622-a465-3c3c423f1e57)
+![47f8b3b0cc61c63d9a0d2d2b54a602dc](../../images/8a80fc29-9d8e-4622-a465-3c3c423f1e57.png)

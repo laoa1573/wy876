@@ -14,7 +14,7 @@ app="Landray-OA系统"
 /api///sys/ui/sys_ui_extend/sysUiExtend.do?method=upload
 
 ```
-![image](https://github.com/wy876/POC/assets/139549762/47bd374a-d072-46ab-824e-e23ef8d08a69)
+![image](../../images/47bd374a-d072-46ab-824e-e23ef8d08a69.png)
 
 
 ## 文件上传
@@ -23,8 +23,8 @@ app="Landray-OA系统"
 id=ZzzZname=testthumb=test
 
 ```
-![image](https://github.com/wy876/POC/assets/139549762/1d6615f9-a98b-4747-a6a8-9e6bdd3218c0)
+![image](../../images/1d6615f9-a98b-4747-a6a8-9e6bdd3218c0.png)
 
-![image](https://github.com/wy876/POC/assets/139549762/1cb1a160-309f-44bb-b0d3-03e59b163258)
+![image](../../images/1cb1a160-309f-44bb-b0d3-03e59b163258.png)
 
 马会在/resource/ui-ext/ZzzZ/jmdyy.jsp

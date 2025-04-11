@@ -19,6 +19,6 @@ Accept-Encoding: gzip, deflate
 Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
 Connection: close
 ```
-![image](https://github.com/wy876/POC/assets/139549762/e4f93bf5-416a-4ff2-87b6-9a3fb26d048e)
+![image](../../images/e4f93bf5-416a-4ff2-87b6-9a3fb26d048e.png)
 
-![image](https://github.com/wy876/POC/assets/139549762/ee9c3d29-096d-48b8-a037-c5371867c033)
+![image](../../images/ee9c3d29-096d-48b8-a037-c5371867c033.png)

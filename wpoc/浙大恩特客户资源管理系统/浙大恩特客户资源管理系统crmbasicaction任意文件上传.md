@@ -25,9 +25,9 @@ Content-Type: application/zip
 --0rwysvgvy7rxv790mpju--
 ```
 
-![3a3a1bb6be6134a688029b7e4d757cd4](https://github.com/wy876/POC/assets/139549762/75ccec48-a0ad-4ca6-abd7-fdd2635ba5ef)
+![3a3a1bb6be6134a688029b7e4d757cd4](../../images/75ccec48-a0ad-4ca6-abd7-fdd2635ba5ef.png)
 
-![9f14d667e2ff13898bf0e9f6e33fe1d5](https://github.com/wy876/POC/assets/139549762/b4355528-ae24-4dfa-962b-eaa779bc6ba7)
+![9f14d667e2ff13898bf0e9f6e33fe1d5](../../images/b4355528-ae24-4dfa-962b-eaa779bc6ba7.png)
 
 访问上传的文件
 /enterdoc/dao{{filepath}}{{filename}}.jsp

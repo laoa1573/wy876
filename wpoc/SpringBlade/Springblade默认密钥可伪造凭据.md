@@ -18,7 +18,7 @@ String SIGN_KEY = "bladexisapowerfulmicroservicearchitectureupgradedandoptimized
 ```
 在 https://jwt.io/ 中填入上面得poc和密钥，即可得到jwt加的凭据
 
-![image](https://github.com/wy876/POC/assets/139549762/042c7596-fa3a-4d25-ad0a-3c67d9fcecd8)
+![image](../../images/042c7596-fa3a-4d25-ad0a-3c67d9fcecd8.png)
 
 
 ## 构造凭据获取管理员用户账户密码

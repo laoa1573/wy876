@@ -24,4 +24,4 @@ If-None-Match: W/"63ba2750-93e"
 Te: trailers
 ```
 
-![be62ca49838833e8b7527d0ab2dd5541](https://github.com/wy876/POC/assets/139549762/25cb6acd-b1bc-4012-a52e-92356d47ada5)
+![be62ca49838833e8b7527d0ab2dd5541](../../images/25cb6acd-b1bc-4012-a52e-92356d47ada5.png)

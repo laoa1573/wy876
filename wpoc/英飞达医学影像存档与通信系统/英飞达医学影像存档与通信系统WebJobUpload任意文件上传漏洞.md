@@ -5,7 +5,7 @@
 icon_hash="1474455751" || icon_hash="702238928"
 ```
 
-![26c19e0fd94f9ed212609cbb142a5efc](https://github.com/wy876/POC/assets/139549762/06bbb356-9749-45e7-80bf-868a611936cb)
+![26c19e0fd94f9ed212609cbb142a5efc](../../images/06bbb356-9749-45e7-80bf-868a611936cb.png)
 
 ## poc
 ```
@@ -32,4 +32,4 @@ Connection: close
 ```
 
 
-![ee4dcedec011b388f84d3086e9b84fbd](https://github.com/wy876/POC/assets/139549762/1396d267-c32e-4452-af68-a2a4a9ba45ad)
+![ee4dcedec011b388f84d3086e9b84fbd](../../images/1396d267-c32e-4452-af68-a2a4a9ba45ad.png)

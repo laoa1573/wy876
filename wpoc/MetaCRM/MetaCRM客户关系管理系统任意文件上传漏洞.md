@@ -49,7 +49,7 @@ null
 
 文件上传路径`http:127.0.0.1/userfile/default/userlogo/klms.jsp`
 
-![55ae9eec40d72e700bae5a4219b36662](https://github.com/wy876/POC/assets/139549762/d6a77031-9ae1-4658-b001-9da226b79444)
+![55ae9eec40d72e700bae5a4219b36662](../../images/d6a77031-9ae1-4658-b001-9da226b79444.png)
 
 
 ## 批量脚本

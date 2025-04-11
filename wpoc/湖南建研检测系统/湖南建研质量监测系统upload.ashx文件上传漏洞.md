@@ -26,7 +26,7 @@ Content-Disposition: form-data; name="_upload_guid"
 --------------------------OqjxWFlqvSLEefGwXuWeIHbrMYnLtTbqoIUbHXbR--
 ```
 
-![f846bf63220b1ecd0a62c03c66fb0924](https://github.com/wy876/POC/assets/139549762/e277303f-001d-4fa3-9f2a-a8aac3d65aba)
+![f846bf63220b1ecd0a62c03c66fb0924](../../images/e277303f-001d-4fa3-9f2a-a8aac3d65aba.png)
 
 ### 将文件复制改名
 
@@ -42,4 +42,4 @@ Content-Length: 63
 filename=/tempData/12345667.asp&filetplpath=/tempData/123.txt
 ```
 
-![271f4e479da4984ce1d40aebe30dfcc2](https://github.com/wy876/POC/assets/139549762/65de9612-4beb-47ef-80e0-c8a34aacf017)
+![271f4e479da4984ce1d40aebe30dfcc2](../../images/65de9612-4beb-47ef-80e0-c8a34aacf017.png)

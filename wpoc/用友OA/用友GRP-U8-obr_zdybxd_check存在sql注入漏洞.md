@@ -12,4 +12,4 @@ Connection: close
 Upgrade-Insecure-Requests: 1
 ```
 
-![fa7a791ea47812cbec3d99f5b37fd7bb](https://github.com/wy876/POC/assets/139549762/8bee3c88-ed03-4c91-9935-63e6dc34b5cd)
+![fa7a791ea47812cbec3d99f5b37fd7bb](../../images/8bee3c88-ed03-4c91-9935-63e6dc34b5cd.png)

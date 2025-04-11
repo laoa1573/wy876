@@ -15,7 +15,7 @@ app="亿赛通-电子文档安全管理系统"
 https://github.com/0xf4n9x/CDGXStreamDeserRCE
 ```
 将head 中的Content 解密
-![image](https://github.com/wy876/POC/assets/139549762/365c3394-4f8e-43aa-9fac-d12e069ca53a)
+![image](../../images/365c3394-4f8e-43aa-9fac-d12e069ca53a.png)
 
 
 ## poc
@@ -36,7 +36,7 @@ Content-Disposition: form-data; name="file"; filename="file"
 --0ac445a70ef9526aeb69efb4569810d6--
 ```
 
-![image](https://github.com/wy876/POC/assets/139549762/96ae7af1-6607-45de-856e-6c248a8791f6)
+![image](../../images/96ae7af1-6607-45de-856e-6c248a8791f6.png)
 
 文件上传地址
 http://ip:/CDGServer3/3g/X.jsp

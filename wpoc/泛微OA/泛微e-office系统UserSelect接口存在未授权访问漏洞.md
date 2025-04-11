@@ -11,4 +11,4 @@ app="泛微-EOffice"
 http://127.0.0.1/UserSelect/
 ```
 
-![image](https://github.com/wy876/POC/assets/139549762/5c2fb92c-b176-47d3-a038-ea861d8a1d30)
+![image](../../images/5c2fb92c-b176-47d3-a038-ea861d8a1d30.png)

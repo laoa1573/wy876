@@ -20,8 +20,8 @@ Content-Length: 19
 
 文件路径`http://ip:port/portal/processxml/1.jsp`
 
-![image](https://github.com/wy876/POC/assets/139549762/be012248-101f-4491-863e-4e71c5312ce4)
+![image](../../images/be012248-101f-4491-863e-4e71c5312ce4.png)
 
-![image](https://github.com/wy876/POC/assets/139549762/38da1f69-fe44-4cad-b663-b9dfd632d7dd)
+![image](../../images/38da1f69-fe44-4cad-b663-b9dfd632d7dd.png)
 
 

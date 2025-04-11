@@ -14,7 +14,7 @@ Content-Type: application/x-www-form-urlencoded
 
 filepath=VHmj0PAATTP2HJBPAATTPcyRcHb6hPAATTP2HJFPAATTP59XObqwUZaPAATTP2HJBPAATTP6EvXjT
 ```
-![image](https://github.com/wy876/POC/assets/139549762/3466b302-c1fc-42c9-929f-5d35500f13bd)
+![image](../../images/3466b302-c1fc-42c9-929f-5d35500f13bd.png)
 
 ### 加解密工具
 https://github.com/vaycore/HrmsTool 
